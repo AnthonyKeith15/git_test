@@ -1,1 +1,3 @@
 Using this file to see if im able to create a new file. add, commit and push all using CLI
+
+UPDATE I FIGURED IT OUT IM SO HAPPPPPPPPY!!!
